@@ -1,4 +1,4 @@
-                                      👋 Hello & Welcome! I’m Fatma Çoban
+                                👋 Hello & Welcome! I’m Fatma Çoban
 
 💫 I’m a developer who loves creating, learning, and growing continuously.
 
