@@ -1,5 +1,4 @@
            
-  <img src="fatma.gif" alt="Fatma GIF">
 
                  
 💫 I’m a developer who loves creating, learning, and growing continuously.
