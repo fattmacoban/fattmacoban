@@ -1,4 +1,4 @@
-💫 I’m Fatma. A developer who loves creating, learning, and growing continuously.
+💫 A developer who loves creating, learning, and growing continuously.
 
 ⚛️ I build clean, smooth, and user-focused interfaces using React, React Native, and JavaScript.
 
