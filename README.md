@@ -1,4 +1,5 @@
-                                👋 Hello & Welcome! I’m Fatma Çoban
+                 # 👋 Hello & Welcome! I’m Fatma Çoban
+<img src="./assets/580c7999-be17-4946-9642-5cccbda1ce3f.gif" alt="Animation" width="400"/>
 
 💫 I’m a developer who loves creating, learning, and growing continuously.
 
