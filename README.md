@@ -1,5 +1,6 @@
-                         <img src="coban.gif" alt="Coban GIF">           
-
+               <p align="center">
+  <img src="coban.gif" alt="Coban GIF">
+</p>
                  
 💫 I’m a developer who loves creating, learning, and growing continuously.
 
