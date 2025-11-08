@@ -1,4 +1,4 @@
-           
+                         <img src="coban.gif" alt="Coban GIF">           
 
                  
 💫 I’m a developer who loves creating, learning, and growing continuously.
