@@ -1,6 +1,6 @@
-           <p align="center">
+           
   <img src="fatma.gif" alt="Fatma GIF">
-</p>
+
                  
 💫 I’m a developer who loves creating, learning, and growing continuously.
 
