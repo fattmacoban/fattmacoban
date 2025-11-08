@@ -1,5 +1,5 @@
-                 # 👋 Hello & Welcome! I’m Fatma Çoban
-<img src="./assets/580c7999-be17-4946-9642-5cccbda1ce3f.gif" alt="Animation" width="400"/>
+                 
+               [👋 Hello   Welcome! I’m Fatma Çoban](https://github.com/user-attachments/assets/49778d7b-d37b-4953-afee-38959c52e98b)
 
 💫 I’m a developer who loves creating, learning, and growing continuously.
 
