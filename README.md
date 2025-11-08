@@ -1,4 +1,3 @@
-               <p align="center">
   <img src="coban.gif" alt="Coban GIF">
 </p>
                  
