@@ -1,5 +1,5 @@
+                                 ![Fatma GIF](fatma.gif)
                  
-                           [Fatma GIF](fatma.gif)
 💫 I’m a developer who loves creating, learning, and growing continuously.
 
 ⚛️ I build clean, smooth, and user-focused interfaces with React, React Native, and JavaScript.
