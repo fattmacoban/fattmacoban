@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Hello-Welcome-I-m-Fatma-C-oba-unscreen-ezgif.com-crop (1).gif" alt="Fatma Welcome GIF" width="600"/>
-</p>
+                             {👋 Hello & Welcome! I’m Fatma Çoban}
 
 💫 I’m a developer who loves creating, learning, and growing continuously.
 
