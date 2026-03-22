@@ -10,7 +10,7 @@
 
 🌱 I thrive on learning new things and deepening my skills through projects.
 
-🚀 Sharing, teaching, and inspiring others is a natural part of my journey.
+
 
                  
 
